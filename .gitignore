@@ -1,0 +1,6 @@
+/node_modules
+/bower_components
+/output/js/*
+!/output/js/.gitkeep
+/output/css/*
+!/output/css/.gitkeep
