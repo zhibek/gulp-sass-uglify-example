@@ -1,5 +1,5 @@
 # gulp-sass-uglify-example
 
-  npm install
-  bower install
-  gulp
+    npm install
+    bower install
+    gulp
